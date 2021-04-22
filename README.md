@@ -1,2 +1,2 @@
-# Pokemon-App
-a simple pokemon app to practise my react skills
+# Weather-App
+a simple Weather app to practise my react skills
